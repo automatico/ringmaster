@@ -1,2 +1,2 @@
-# shepherd
-Vagrant re-imagined
+# sherpa
+Vagrant re-imagined in go
